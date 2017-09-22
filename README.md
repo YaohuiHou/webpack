@@ -128,4 +128,7 @@ npm的start命令是一个特殊的脚本名称，其特殊性表现在，在命
 
 
 
+## 插件
 
+[Plugins.md](./Plugins.md)
+> webpack 有一个富插件接口(rich plugin interface)。webpack 自身的多数功能都使用这个插件接口。这个插件接口使 webpack 变得极其灵活。
