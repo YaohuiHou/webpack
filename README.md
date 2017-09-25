@@ -1,6 +1,6 @@
 # webpack 入门
 
-主要说关于webpack的入门配置，有文档，自己根据文档来了一次，感觉那种神秘牛逼的打包工具也就那样呗！以后有人问你能写webpack配置单吗，直接回他，什么个东西不就是打包的嘛！！！
+主要说关于webpack的入门配置，有文档，自己根据文档来了一次，感觉那种神秘牛逼的打包工具也就那样呗！[webpack文档地址：http://www.css88.com/doc/webpack2/](http://www.css88.com/doc/webpack2/)
 
 
 ### 为什要使用WebPack？
